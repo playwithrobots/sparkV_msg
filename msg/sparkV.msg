@@ -1,0 +1,10 @@
+uint8 LlS
+uint8 ClS
+uint8 RlS
+uint8 Lir
+uint8 Cir
+uint8 Rir
+uint8 bat
+bool buz
+uint16 tL
+uint16 tR

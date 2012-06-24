@@ -1,0 +1,10 @@
+uint8 LlineS
+uint8 ClineS
+uint8 RlineS
+uint8 Lir
+uint8 Cir
+uint8 Rir
+uint8 batt
+bool buz
+uint16 tickL
+uint16 tickR
