@@ -5,21 +5,15 @@
 \b sparkV_msg is ... 
 
 <!-- 
-Provide an overview of your package.
+ROS_SparkV is basic ROS package that integrates SparkV robot and ROS. It is build using rosserial Stack. It lets you to send velocity commands to SparkV and read states of various sensors and position encoders. 
 -->
 
 
 \section codeapi Code API
 
 <!--
-Provide links to specific auto-generated API documentation within your
-package that is of particular interest to a reader. Doxygen will
-document pretty much every part of your code, so do your best here to
-point the reader to the actual API.
-
-If your codebase is fairly large or has different sets of APIs, you
-should use the doxygen 'group' tag to keep these APIs together. For
-example, the roscpp documentation has 'libros' group.
+Using Instructions at : 
+http://playwithrobots.com/working-on-robots/sparkv/15-ros-and-sparkv
 -->
 
 
